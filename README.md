@@ -40,8 +40,8 @@
 
 **📊 GitHub Stats:** ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natnael19&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
-![](https://github-readme-streak-stats.herokuapp.com/?user=natnael19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=net-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-streak-stats.herokuapp.com/?user=net-cyber&theme=dark&hide_border=false)<br/>
 
 **#Would you like to meet me?.** ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
