@@ -18,7 +18,7 @@
 
 <!--   my-ticker -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=++++++++Hi+there+👋,+I+am+natnael+A+Tesfa;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+and+Flutter+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=++++++++Hi+there+👋,+I+am+Natnael+S+Habtamu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+and+Flutter+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnael22&label=Profile%20views&color=0e75b6&style=flat" alt="natnael22" /> </p><p align="left"> <a href="https://twitter.com/natnael22" target="blank"><img src="https://img.shields.io/twitter/follow/natnael22?logo=twitter&style=for-the-badge" alt="natnael22" /></a> </p>
@@ -51,9 +51,9 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 **📫 How to Reach me:**
 
 <p align="left">
-<a href="https://twitter.com/natnael22" target="blank"><img align="center" src="https://raw.githubusercontent.com/net-cyber/net-cyber/master/assets/twitter.svg" alt="net-cyber" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/natnael19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/net-cyber/net-cyber/master/assets/linkedin.svg" alt="net-cyber" height="30" width="30" /></a>
-<a href="mailto:natnaelethiopia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/net-cyber/net-cyber/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+
+<a href="https://www.linkedin.com/in/natnael-seyoum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/net-cyber/net-cyber/master/assets/linkedin.svg" alt="net-cyber" height="30" width="30" /></a>
+<a href="mailto:ceo.natnael@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/net-cyber/net-cyber/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ![](assets/Bottom_down.svg)
